@@ -3,3 +3,4 @@ I'll learn basic git workflow.
 
 ・git add
 ・git commit
+・git rm
