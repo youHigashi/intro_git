@@ -1,2 +1,5 @@
 I'm going to learn git.
 I'll learn basic git workflow.
+
+・git add
+・git commit
