@@ -5,3 +5,4 @@ I'll learn basic git workflow.
 ・git commit
 ・git rm
 ・git status
+・git diff
